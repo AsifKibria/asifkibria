@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=asifkibria)
 - 👋 Hi, I’m @asifkibria
 - 👀 I’m interested in Data and making machine useful 
 - 🌱 I’m currently learning a lot in data science including maths and statistics
