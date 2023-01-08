@@ -2,11 +2,7 @@
 - 👋 Hi, I’m @asifkibria
 - 👀 I’m interested in Data and making machine useful 
 - 🌱 I’m currently learning a lot in data science including maths and statistics
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - knock me at https://asifkibria.com
-- Also check this out: https://gitlab.com/asifkibria
+- 📄 Get to know my CV and Portfolio Website - visit https://asifkibria.me
+- Also check this out: https://gitlab.com/asifkibria as I mostly used gitlab for my professional and personal work. You know before github was free to make private repository and I was a student. 
 
-<!---
-asifkibria/asifkibria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
